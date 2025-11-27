@@ -108,10 +108,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ItzHimanshu007/ItzHimanshu007/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div>
