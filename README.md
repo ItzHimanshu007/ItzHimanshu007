@@ -1,28 +1,28 @@
 <div align="center">
-  <!-- Premium Cinematic Header with Motion-Enhanced Aesthetic -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=280&section=header&text=HIMANSHU%20JASORIYA&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%E2%96%B5%20Startup%20Founder%20%E2%96%B5%20XR%20Innovator&descAlignY=62&descAlign=50&descSize=22&font=Outfit" width="100%" />
+  <!-- ⚡ NEURAL INTERFACE HEADER | SUPREME AESTHETIC ⚡ -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=HIMANSHU%20JASORIYA&fontSize=90&fontColor=00d9ff&animation=twinkling&fontAlignY=35&textBg=true&desc=AI/ML%20ARCHITECT%20%E2%96%B5%20XR%20EXPLORER%20%E2%96%B5%20STARTUP%20FOUNDER&descAlignY=65&descSize=24&font=Outfit" width="100%" />
 
   <br/>
 
   <!-- High-Status Integrated Interface -->
-  <table width="100%" style="border: none; margin-top: -30px;">
+  <table width="100%" style="border: none; margin-top: -35px;">
     <tr>
       <td width="30%" align="center" style="border: none;">
-        <img src="https://komarev.com/ghpvc/?username=ItzHimanshu007&style=for-the-badge&color=00d9ff&labelColor=000000&label=MAINFRAME_ACCESS" />
+        <img src="https://komarev.com/ghpvc/?username=ItzHimanshu007&style=for-the-badge&color=00d9ff&labelColor=000000&label=%E2%8C%A8%EF%B8%8E_MAINFRAME_ACCESS" />
       </td>
       <td width="40%" align="center" style="border: none;">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=400&height=50&lines=ARCHITECTING+NEURAL+CORTEXES;DEVELOPING+IMMERSIVE+ECOSYSTEMS;MISSION:+AI+FOR+HUMAN+ALIGNMENT" />
+          <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=22&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=450&height=50&lines=%3E_INITIALIZING+NEURAL+PROTOCOL;%3E_MAPPING_SPATIAL_DIMENSIONS;%3E_EXECUTING_MISSION_ALPHA" />
         </a>
       </td>
       <td width="30%" align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/STATUS-OPERATING-00ff88?style=for-the-badge&labelColor=000000" />
+        <img src="https://img.shields.io/badge/STATUS-OPERATING-00ff88?style=for-the-badge&labelColor=000000&logo=pulse" />
       </td>
     </tr>
   </table>
 
   <!-- Animated HUD Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="10px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="12px" />
 </div>
 
 ---
