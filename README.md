@@ -188,12 +188,12 @@
 
   <table width="100%">
     <tr>
-      <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ItzHimanshu007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d9ff&icon_color=00ff88&text_color=ffffff" /></td>
-      <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzHimanshu007&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d9ff&text_color=ffffff" /></td>
+      <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ItzHimanshu007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00d9ff&icon_color=00ff88&text_color=ffffff" /></td>
+      <td align="center" width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzHimanshu007&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00d9ff&text_color=ffffff" /></td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzHimanshu007&theme=tokyonight&hide_border=true&background=00000000&ring=00d9ff&fire=ff6b6b" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzHimanshu007&theme=tokyonight&hide_border=true&background=000000&ring=00d9ff&fire=ff6b6b" width="100%" />
 </div>
 
 ---
