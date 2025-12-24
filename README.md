@@ -1,16 +1,24 @@
 <div align="center">
-  <!-- Premium Wavy Header -->
+  <!-- Premium Cinematic Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=280&section=header&text=HIMANSHU%20JASORIYA&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%96%B5%20Startup%20Founder%20%E2%96%B5%20XR%20Innovator&descAlignY=62&descAlign=50&descSize=22&font=Outfit" width="100%" />
 
-  <!-- Integrated Typing Interface -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=%E2%9A%A1+Architecting+Neural+Cortexes;%F0%9F%9A%80+Founder+of+Neuronest+%7C+AI+%2B+VR;%F0%9F%8F%86+Hackathon+Winning+Innovator" alt="Typing SVG" />
-  </a>
+  <br/>
 
-  <!-- High-Impact Visual -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
+  <!-- High-Status Integrated Interface -->
+  <table width="100%" style="border: none; margin-top: -20px;">
+    <tr>
+      <td width="55%" align="left" style="border: none;">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&background=00000000&center=false&vCenter=true&multiline=true&width=500&height=100&lines=%E2%9A%A1+Architecting+Neural+Cortexes;%F0%9F%9A%80+Founder+of+Neuronest;%F0%9F%8F%86+Hackathon+Winning+Innovator" />
+        </a>
+      </td>
+      <td width="45%" align="right" style="border: none;">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" />
+      </td>
+    </tr>
+  </table>
 
-  <p align="center">
+  <p align="center" style="margin-top: -10px;">
     <img src="https://komarev.com/ghpvc/?username=ItzHimanshu007&style=for-the-badge&color=00d9ff&labelColor=000000&label=MAINFRAME_ACCESS" />
     <img src="https://img.shields.io/badge/Focus-AI%20%26%20XR%20Innovation-00d9ff?style=for-the-badge&labelColor=000000" />
     <img src="https://img.shields.io/badge/Status-Operating-00ff88?style=for-the-badge&labelColor=000000" />
@@ -19,26 +27,25 @@
 
 ---
 
-<h2 align="center">🚀 **IDENTITY_DASHBOARD [ABOUT ME]**</h2>
+<h2 align="center">🚀 **IDENTITY_DASHBOARD [SUBJECT_BIO]**</h2>
 
 <div align="center">
   <table width="100%" style="border: none;">
     <tr>
-      <td width="60%" align="left" style="border: none; padding-right: 20px;">
-        
-### ⚡ SUBJECT_BIO
-I'm **Himanshu Jasoriya**, an AI/ML Engineer driven by the mission to bridge human empathy and machine intelligence. I specialize in building **immersive XR experiences** and **ethically aligned AI solutions** that solve real-world complexities.
-
-**`>_ CURRENT_DIRECTIVES:`**
-- 🔭 **Mission-Critical:** Scaling **Neuronest** (AI + VR Therapy)
-- 🌱 **Neural Deepening:** Advanced DL & Computer Vision
-- 👯 **Synergy:** Open for High-Impact AI/ML Collaborations
-- 📫 **Uplink:** [hjasoriya007@gmail.com](mailto:hjasoriya007@gmail.com)
-- ⚡ **Random Fact:** I convert caffeine into neural architectures!
-
-      </td>
       <td width="40%" align="center" style="border: none;">
-        <img alt="Coding GIF" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 8px;" />
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 8px; width: 100%; border: 1px solid #1a1a1a;" />
+      </td>
+      <td width="60%" align="left" style="border: none; padding-left: 25px;">
+        
+I'm **Himanshu Jasoriya**, an AI/ML Engineer bridging human empathy and machine intelligence. I specialize in building **immersive XR experiences** and **ethically aligned AI** solutions.
+
+**`>_ ACTIVE_COMMANDS:`**
+*   🔭 **Mission:** Scaling **Neuronest** (AI-Driven XR Therapy)
+*   🌱 **Deepening:** Advanced Computer Vision & LLM Architectures
+*   👯 **Synergy:** Open for high-impact AI/ML collaborations
+*   📫 **Uplink:** [hjasoriya007@gmail.com](mailto:hjasoriya007@gmail.com)
+*   ⚡ **Meta:** Converting caffeine into neural architectures!
+
       </td>
     </tr>
   </table>
@@ -49,12 +56,12 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer driven by the mission to bridge hum
 <h2 align="center">🏆 **MISSION_LOG [EXPERIENCE & HONORS]**</h2>
 
 <div align="center">
-  <table width="95%">
+  <table width="100%">
     <tr>
-      <th align="center">🎖️ RANK</th>
-      <th align="center">🎪 INITIATIVE / EVENT</th>
-      <th align="center">📊 IMPACT / ROLE</th>
-      <th align="center">📅 DATE</th>
+      <th align="center" width="20%">🎖️ RANK</th>
+      <th align="center" width="30%">🎪 INITIATIVE</th>
+      <th align="center" width="35%">📊 IMPACT / ROLE</th>
+      <th align="center" width="15%">📅 DATE</th>
     </tr>
     <tr>
       <td align="center"><b>🥇 Top Team</b></td>
@@ -64,7 +71,7 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer driven by the mission to bridge hum
     </tr>
     <tr>
       <td align="center"><b>💡 Winning Pitch</b></td>
-      <td align="center">E-Cell ACEIT Eureka</td>
+      <td align="center">ACEIT Eureka</td>
       <td align="center">Innovation Protocol Mastery</td>
       <td align="center">2025</td>
     </tr>
@@ -85,41 +92,11 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer driven by the mission to bridge hum
 
 ---
 
-<h2 align="center">📂 **DEPLOYED_MODULES [PROJECTS]**</h2>
+<h2 align="center">�️ **TECHNICAL_ARSENAL [SYSTEM_CORE]**</h2>
 
 <div align="center">
-  <table width="100%" style="border: none;">
-    <tr>
-      <td width="50%" align="center" style="border: none; padding: 15px; vertical-align: top;">
-        <h3>🧠 Neuronest Hub</h3>
-        <p><i>Adaptive AI + VR Therapy</i></p>
-        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00d9ff" />
-        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00ff88" />
-        <ul align="left">
-          <li>Emotion-aware AI therapy avatars</li>
-          <li>Biometric EEG & GSR data integration</li>
-        </ul>
-      </td>
-      <td width="50%" align="center" style="border: none; padding: 15px; vertical-align: top;">
-        <h3>🏙️ Civic Pulse AI</h3>
-        <p><i>Smart City Governance Interface</i></p>
-        <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=openai&logoColor=00d9ff" />
-        <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=00ff88" />
-        <ul align="left">
-          <li>Real-time sentiment city analysis</li>
-          <li>Automated ticket routing (GPT-4)</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h2 align="center">🛠️ **TECHNICAL_ARSENAL [SKILLS]**</h2>
-
-<div align="center">
-  <table width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="8px" />
+  <table width="100%" style="margin-top: 10px;">
     <tr>
       <td width="33%" align="center" valign="top">
         <b>⚡ LANGUAGES</b><br/><br/>
@@ -141,25 +118,28 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer driven by the mission to bridge hum
       </td>
     </tr>
   </table>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="8px" />
 </div>
 
 ---
 
-<h2 align="center">📊 **GITHUB_ANALYTICS [METRICS]**</h2>
+<h2 align="center">📊 **GITHUB_ANALYTICS [CORE_METRICS]**</h2>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ItzHimanshu007&theme=tokyonight&no-bg=true&margin-w=15&no-frame=true" alt="trophies" />
-  </a>
-
-  <table width="100%" style="margin-top: 10px;">
+  <table width="100%">
     <tr>
-      <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItzHimanshu007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00d9ff&icon_color=00ff88&text_color=ffffff" />
+      <td align="center" style="border: none;">
+        <img src="https://github-profile-trophy.vercel.app/?username=ItzHimanshu007&theme=tokyonight&no-bg=true&margin-w=15&no-frame=true" width="100%" />
       </td>
-      <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzHimanshu007&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00d9ff&text_color=ffffff" />
-      </td>
+    </tr>
+  </table>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%" height="15px" style="margin: 10px 0;" />
+
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItzHimanshu007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00d9ff&icon_color=00ff88&text_color=ffffff" /></td>
+      <td align="center" width="50%"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzHimanshu007&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00d9ff&text_color=ffffff" /></td>
     </tr>
   </table>
   
@@ -170,7 +150,7 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer driven by the mission to bridge hum
 <div align="center">
   <br/>
   <details>
-    <summary><b>🏆 DECRYPTED_CERTIFICATE_DATABASE [CLICK_TO_ACCESS]</b></summary>
+    <summary><b>🏆 DECRYPTED_CERTIFICATE_DATABASE [ACCESS_GRANTED]</b></summary>
     <p align="center">
       <b>[01] ML INTERNSHIP</b> • Cognifyz <br/>
       <b>[02] PYTHON FOR DS</b> • IBM <br/>
@@ -196,11 +176,10 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer driven by the mission to bridge hum
   <a href="https://github.com/ItzHimanshu007"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
   <a href="https://x.com/itzhimanshu_07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ff6b6b" /></a>
   <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0731e484d.gif" width="180" />
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0731e484d.gif" width="160" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=120&section=footer&animation=fadeIn&font=Outfit" width="100%" />
-  <sub><b>Crafted with ⚡ by Himanshu Jasoriya | 2025</b></sub>
+  <sub><b>System Synchronized by Himanshu Jasoriya | 2025</b></sub>
 </div>
-
