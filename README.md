@@ -27,15 +27,18 @@
 
 ---
 
-<h2 align="center">🚀 **IDENTITY_DASHBOARD [SUBJECT_BIO]**</h2>
+<!-- Animated Section Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=IDENTITY_DASHBOARD&fontSize=40&fontColor=00d9ff&fontAlignY=50&desc=SUBJECT_BIO&descAlignY=80&descAlign=50&descSize=15&font=Outfit" width="100%" />
+</p>
 
 <div align="center">
-  <table width="100%" style="border: none;">
+  <table width="100%" style="border: none; margin-top: -10px;">
     <tr>
-      <td width="40%" align="center" style="border: none;">
+      <td width="35%" align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 8px; width: 100%; border: 1px solid #1a1a1a;" />
       </td>
-      <td width="60%" align="left" style="border: none; padding-left: 25px;">
+      <td width="65%" align="left" style="border: none; padding-left: 25px;">
         
 I'm **Himanshu Jasoriya**, an AI/ML Engineer bridging human empathy and machine intelligence. I specialize in building **immersive XR experiences** and **ethically aligned AI** solutions.
 
@@ -53,9 +56,12 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer bridging human empathy and machine 
 
 ---
 
-<h2 align="center">🏆 **MISSION_LOG [EXPERIENCE & HONORS]**</h2>
+<!-- Animated Section Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=MISSION_LOG&fontSize=40&fontColor=ff6b6b&fontAlignY=50&desc=EXPERIENCE_&_HONORS&descAlignY=80&descAlign=50&descSize=15&font=Outfit" width="100%" />
+</p>
 
-<div align="center">
+<div align="center" style="margin-top: -10px;">
   <table width="100%">
     <tr>
       <th align="center" width="20%">🎖️ RANK</th>
@@ -92,9 +98,12 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer bridging human empathy and machine 
 
 ---
 
-<h2 align="center">�️ **TECHNICAL_ARSENAL [SYSTEM_CORE]**</h2>
+<!-- Animated Section Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=TECHNICAL_ARSENAL&fontSize=40&fontColor=00ff88&fontAlignY=50&desc=SYSTEM_CORE_STACK&descAlignY=80&descAlign=50&descSize=15&font=Outfit" width="100%" />
+</p>
 
-<div align="center">
+<div align="center" style="margin-top: -10px;">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="8px" />
   <table width="100%" style="margin-top: 10px;">
     <tr>
@@ -123,9 +132,12 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer bridging human empathy and machine 
 
 ---
 
-<h2 align="center">📊 **GITHUB_ANALYTICS [CORE_METRICS]**</h2>
+<!-- Animated Section Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=GITHUB_ANALYTICS&fontSize=40&fontColor=ffd93d&fontAlignY=50&desc=REAL_TIME_NODE_METRICS&descAlignY=80&descAlign=50&descSize=15&font=Outfit" width="100%" />
+</p>
 
-<div align="center">
+<div align="center" style="margin-top: -10px;">
   <table width="100%">
     <tr>
       <td align="center" style="border: none;">
@@ -171,12 +183,21 @@ I'm **Himanshu Jasoriya**, an AI/ML Engineer bridging human empathy and machine 
 
 <div align="center">
   <h2>📡 **SECURE_UPLINK [CONNECT]**</h2>
-  <a href="mailto:hjasoriya007@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00d9ff" /></a>
-  <a href="https://linkedin.com/in/himanshu-jasoriya-23b77331a"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88" /></a>
-  <a href="https://github.com/ItzHimanshu007"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-  <a href="https://x.com/itzhimanshu_07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ff6b6b" /></a>
-  <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0731e484d.gif" width="160" />
+  <table width="100%" style="border: none;">
+    <tr>
+      <td width="30%" align="center" style="border: none;">
+        <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0731e484d.gif" width="150" />
+      </td>
+      <td width="70%" align="center" style="border: none;">
+        <a href="mailto:hjasoriya007@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00d9ff" /></a>
+        <a href="https://linkedin.com/in/himanshu-jasoriya-23b77331a"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88" /></a>
+        <a href="https://github.com/ItzHimanshu007"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
+        <a href="https://x.com/itzhimanshu_07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ff6b6b" /></a>
+        <br/><br/>
+        <b>`SYSTEM_STATUS: ONLINE`</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
