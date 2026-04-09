@@ -32,8 +32,7 @@
 
 <br/>
 
-> *First-year AI student. 6× national hackathon podiums. Co-founder of an active startup.
-> I build for the people mainstream tech ignores — and I build fast.*
+> *Founder@Neuronest | 7x Hackathon Winner🏆 | AI/ML Engineer | Tech & Business Innovator | Open to Impactful Collaborations | Innovate. Impact. Inspire.*
 
 <br/>
 
