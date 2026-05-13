@@ -42,7 +42,7 @@
 ║     DEGREE    →  B.Tech AI & Data Science (2024–2028) · CGPA 9.2    ║
 ║     LOCATION  →  Jaipur, Rajasthan, India                           ║
 ║     STARTUP   →  Neuronest — AI + VR Mental Health Therapy          ║
-║     WINS      →  7 podiums at national & open hackathons            ║
+║     WINS      →  8 podiums at national & open hackathons            ║
 ║     CONTACT   →  hjasoriya007@gmail.com                             ║
 ║     MANTRA    →  "Problems first. Ship fast. Build for people        ║
 ║                   who need it most."                                 ║
