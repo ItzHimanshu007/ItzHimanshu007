@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- ANIMATED ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=⚡+Building+AI+that+actually+helps+people;🧠+Founder+%40+Neuronest+(AI+%2B+VR+Mental+Health);🏆+7x+Hackathon+Winner+across+India;🚀+B.Tech+AI+%26+Data+Science+·+CGPA+9.2%2F10;🔭+Exploring+Multimodal+AI+%26+Agentic+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=⚡+Building+AI+that+actually+helps+people;🧠+Founder+%40+Neuronest+(AI+%2B+VR+Mental+Health);🏆+8x+Hackathon+Winner+across+India;🚀+B.Tech+AI+%26+Data+Science+·+CGPA+9.2%2F10;🔭+Exploring+Multimodal+AI+%26+Agentic+Systems" alt="Typing SVG" />
 
 </div>
 
