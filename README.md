@@ -1,42 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050911,50:0a1628,100:00d4ff&height=220&section=header&text=Himanshu%20Jasoriya&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%208%C3%97%20Hackathon%20Winner&descSize=15&descColor=00d4ff&descAlignY=62&animation=twinkling&stroke=00d4ff&strokeWidth=0.4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:1a0000,100:cc1f1f&height=220&section=header&text=Himanshu%20Jasoriya&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%208%C3%97%20Hackathon%20Winner&descSize=15&descColor=ff2020&descAlignY=62&animation=twinkling&stroke=cc1f1f&strokeWidth=0.4"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=700&color=00D4FF&center=true&vCenter=true&width=720&height=28&lines=Computer+Vision+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LoRA%2FQLoRA;Full+Stack+%C2%B7+Multimodal+AI+%C2%B7+Scalable+GenAI+Products;Startup+Builder+%C2%B7+Rapid+Prototyper+%C2%B7+Research-driven" alt="roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=700&color=FF2020&center=true&vCenter=true&width=720&height=28&lines=Computer+Vision+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LoRA%2FQLoRA;Full+Stack+%C2%B7+Multimodal+AI+%C2%B7+Scalable+GenAI+Products;Startup+Builder+%C2%B7+Rapid+Prototyper+%C2%B7+Research-driven" alt="roles"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-jasoriya-23b77331a)&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hjasoriya007@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/@ItzHimanshu007-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/ItzHimanshu007)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=ItzHimanshu007&style=flat-square&color=00d4ff&label=visitors)
+![Visitors](https://komarev.com/ghpvc/?username=ItzHimanshu007&style=flat-square&color=cc1f1f&label=visitors)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26&height=2&width=100%"/>
 
 <br/>
 
-```yaml
-# himanshu.yaml ──────────────────────────────────────────────────────────────
-name     : Himanshu Jasoriya
-role     : AI/ML Engineer & Entrepreneur
-edu      : B.Tech — Artificial Intelligence & Data Science  [2024 → 2028]
-location : Jaipur, Rajasthan, India
+I'm **Himanshu Jasoriya** — an **AI/ML Engineer & Entrepreneur** pursuing B.Tech in Artificial Intelligence & Data Science `(2024–2028)` from Jaipur, India.
 
-core:
-  - Computer Vision · Deep Learning · Multimodal AI
-  - LLMs · RAG Pipelines · AI Agents · LoRA/QLoRA Fine-tuning
-  - Full Stack · Scalable Systems · GenAI Products
-  - Business Models · GTM Strategy · Startup Ecosystems
+I build at the intersection of **deep learning, product thinking, and real-world impact** — from computer vision pipelines and LLM-powered agents to full-stack GenAI products. I care about writing systems that are technically sound, commercially viable, and actually useful to people.
 
-beyond:  [ Public Speaking · Extempore · Dance · Singing ]
+**What I work with →** `Computer Vision` `Deep Learning` `Multimodal AI` `LLMs` `RAG` `AI Agents` `LoRA / QLoRA` `Full Stack` `Scalable Backend` `GenAI Products`
 
-vision   : "Build AI that is technically robust, commercially viable & socially impactful"
-# ─────────────────────────────────────────────────────────────────────────────
-```
+**How I think →** I pair AI engineering with **business model thinking** — understanding GTM strategy, startup ecosystems, and how to take a prototype from hackathon to product. Rapid prototyping and research-driven problem solving are defaults, not skills.
+
+**Beyond the screen →**
+I'm a **confident public speaker** — comfortable on stage whether it's a technical demo, an extempore round, or pitching to a room of judges. I've represented at national-level competitions and hackathons across India. I'm also into **dance and singing**, and I believe creativity in one domain sharpens thinking in another. I thrive under pressure, perform better in teams, and genuinely enjoy the chaos of building something real from zero.
+
+> *"Build AI that is technically robust, commercially viable & socially impactful."*
 
 <br/>
 
@@ -46,8 +40,8 @@ vision   : "Build AI that is technically robust, commercially viable & socially 
 
 | &nbsp; | Competition | Organizer | Tier |
 |:---:|:---|:---|:---:|
-| 🥇 | **Geospatial Intelligence Hackathon 2026** | Open | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
-| 🥇 | **HACKSTORM 2025** | National | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
+| 🥇 | **Geospatial Intelligence Hackathon 2026** | Open | ![](https://img.shields.io/badge/NATIONAL-cc1f1f?style=flat-square) |
+| 🥇 | **HACKSTORM 2025** | National | ![](https://img.shields.io/badge/NATIONAL-cc1f1f?style=flat-square) |
 | 🥇 | **IdeaThon 2025** | ACEIT Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
 | 🥈 | **DevSummit Hackathon** | Jagannath University | ![](https://img.shields.io/badge/UNIVERSITY-0e7490?style=flat-square) |
 | 🥈 | **Genisys 1.0** | MNIT Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
@@ -65,7 +59,7 @@ vision   : "Build AI that is technically robust, commercially viable & socially 
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Neuronest**&nbsp;&nbsp;![](https://img.shields.io/badge/ACTIVE%20STARTUP-00d4ff?style=flat-square)
+**🧠 Neuronest**&nbsp;&nbsp;![](https://img.shields.io/badge/ACTIVE%20STARTUP-cc1f1f?style=flat-square)
 
 AI + VR mental health therapy with adaptive emotional feedback. The virtual environment responds in real-time to physiological signals — targeting India's therapist shortage crisis.
 
@@ -167,7 +161,7 @@ Decentralised P2P renewable energy trading for rooftop solar owners. Concept →
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26&height=2&width=100%"/>
 
 <br/>
 
@@ -177,6 +171,6 @@ Decentralised P2P renewable energy trading for rooftop solar owners. Concept →
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,60:0a1628,100:050911&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc1f1f,60:1a0000,100:0d0000&height=110&section=footer"/>
 
 </div>
