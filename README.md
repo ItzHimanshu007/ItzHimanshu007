@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:1a0000,100:cc1f1f&height=220&section=header&text=Himanshu%20Jasoriya&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%208%C3%97%20Hackathon%20Winner&descSize=15&descColor=ff2020&descAlignY=62&animation=twinkling&stroke=cc1f1f&strokeWidth=0.4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050911,50:0a1628,100:00d4ff&height=220&section=header&text=Himanshu%20Jasoriya&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%208%C3%97%20Hackathon%20Winner&descSize=15&descColor=00d4ff&descAlignY=62&animation=twinkling&stroke=00d4ff&strokeWidth=0.4"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=700&color=FF2020&center=true&vCenter=true&width=720&height=28&lines=Computer+Vision+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LoRA%2FQLoRA;Full+Stack+%C2%B7+Multimodal+AI+%C2%B7+Scalable+GenAI+Products;Startup+Builder+%C2%B7+Rapid+Prototyper+%C2%B7+Research-driven" alt="roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=700&color=00D4FF&center=true&vCenter=true&width=720&height=28&lines=Computer+Vision+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LoRA%2FQLoRA;Full+Stack+%C2%B7+Multimodal+AI+%C2%B7+Scalable+GenAI+Products;Startup+Builder+%C2%B7+Rapid+Prototyper+%C2%B7+Research-driven" alt="roles"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-jasoriya-23b77331a)&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hjasoriya007@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/@ItzHimanshu007-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/ItzHimanshu007)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=ItzHimanshu007&style=flat-square&color=cc1f1f&label=visitors)
+![Visitors](https://komarev.com/ghpvc/?username=ItzHimanshu007&style=flat-square&color=00d4ff&label=visitors)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2&width=100%"/>
 
 <br/>
 
@@ -40,8 +40,8 @@ I'm a **confident public speaker** — comfortable on stage whether it's a techn
 
 | &nbsp; | Competition | Organizer | Tier |
 |:---:|:---|:---|:---:|
-| 🥇 | **Geospatial Intelligence Hackathon 2026** | Open | ![](https://img.shields.io/badge/NATIONAL-cc1f1f?style=flat-square) |
-| 🥇 | **HACKSTORM 2025** | National | ![](https://img.shields.io/badge/NATIONAL-cc1f1f?style=flat-square) |
+| 🥇 | **Geospatial Intelligence Hackathon 2026** | Open | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
+| 🥇 | **HACKSTORM 2025** | National | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
 | 🥇 | **IdeaThon 2025** | ACEIT Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
 | 🥈 | **DevSummit Hackathon** | Jagannath University | ![](https://img.shields.io/badge/UNIVERSITY-0e7490?style=flat-square) |
 | 🥈 | **Genisys 1.0** | MNIT Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
@@ -59,7 +59,7 @@ I'm a **confident public speaker** — comfortable on stage whether it's a techn
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Neuronest**&nbsp;&nbsp;![](https://img.shields.io/badge/ACTIVE%20STARTUP-cc1f1f?style=flat-square)
+**🧠 Neuronest**&nbsp;&nbsp;![](https://img.shields.io/badge/ACTIVE%20STARTUP-00d4ff?style=flat-square)
 
 AI + VR mental health therapy with adaptive emotional feedback. The virtual environment responds in real-time to physiological signals — targeting India's therapist shortage crisis.
 
@@ -161,7 +161,7 @@ Decentralised P2P renewable energy trading for rooftop solar owners. Concept →
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,25,26&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2&width=100%"/>
 
 <br/>
 
@@ -171,6 +171,6 @@ Decentralised P2P renewable energy trading for rooftop solar owners. Concept →
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc1f1f,60:1a0000,100:0d0000&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,60:0a1628,100:050911&height=110&section=footer"/>
 
 </div>
