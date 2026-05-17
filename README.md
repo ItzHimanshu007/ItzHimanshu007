@@ -32,24 +32,27 @@
 <br/>
 
 <!-- IDENTITY BLOCK -->
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   > whoami                                                           ║
-║                                                                      ║
-║     NAME      →  Himanshu Jasoriya                                  ║
-║     ROLE      →  AI Engineer · Startup Founder · Hackathon Champ    ║
-║     DEGREE    →  B.Tech AI & Data Science (2024–2028) · CGPA 9.2    ║
-║     LOCATION  →  Jaipur, Rajasthan, India                           ║
-║     STARTUP   →  Neuronest — AI + VR Mental Health Therapy          ║
-║     WINS      →  8 podiums at national & open hackathons            ║
-║     CONTACT   →  hjasoriya007@gmail.com                             ║
-║     MANTRA    →  "Problems first. Ship fast. Build for people        ║
-║                   who need it most."                                 ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
 
+```text
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   > whoami                                                                 ║
+║                                                                            ║
+║     NAME        →  Himanshu Jasoriya                                       ║
+║     ROLE        →  AI & Full Stack Developer                               ║
+║     EDUCATION   →  B.Tech in AI & Data Science (2024–2028)                 ║
+║     LOCATION    →  Jaipur, Rajasthan, India                                ║
+║     INTERESTS   →  AI Systems · Computer Vision · Intelligent Interfaces   ║
+║     BUILDING    →  Real World Tech with AI, Automation & Modern Web        ║
+║     PASSION     →  Solving meaningful problems through code and design     ║
+║     LEARNING    →  Multimodal AI · Agentic Systems · Scalable Backend      ║
+║     EXPERIENCE  →  Hackathons · Open Source · Product Development          ║
+║     VISION      →  Creating technology that feels useful, intuitive,       ║
+║                    and accessible to everyday people                        ║
+║     CONTACT     →  hjasoriya007@gmail.com                                  ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
 <br/>
 
 <!-- SECTION DIVIDER -->
@@ -251,18 +254,54 @@ Rooftop solar owners generate surplus energy with **nowhere to sell it**. SunGri
 
 <br/>
 
-## 📊 &nbsp;`GITHUB PULSE`
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a33,100:000000&height=2"/>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a33,100:000000&height=2"/>
+
+<br/>
+
+## 🚀 &nbsp;`BEYOND THE CODE`
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ItzHimanshu007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzHimanshu007&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00d4ff&fire=ffd700&currStreakLabel=00d4ff" width="49%" />
+```bash
+> mindset.init()
 
-<br/><br/>
+[✓] Build technology that solves real problems
+[✓] Learn deeply instead of following hype
+[✓] Focus on execution, consistency, and creativity
+[✓] Keep building. Keep improving.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzHimanshu007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&text_color=ffffff&langs_count=8" width="45%" />
+> interests.load()
+
+AI Systems
+Computer Vision
+Full Stack Development
+Human Centered Technology
+Startup & Product Thinking
+
+> currently_learning --active
+
+• Multimodal AI
+• Agentic Systems
+• Backend Architecture
+• System Design
+• AI Product Engineering
+
+> open_to.connect()
+
+Hackathons
+Open Source
+Collaborations
+Innovative Projects
+Hard Problems
+```
 
 </div>
 
@@ -273,70 +312,10 @@ Rooftop solar owners generate surplus energy with **nowhere to sell it**. SunGri
 
 <br/>
 
-## ⚙️ &nbsp;`HOW I OPERATE`
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  PRINCIPLE 01 — SHIP FIRST, PERFECT LATER                           ║
-║  ─────────────────────────────────────────────────────────────────  ║
-║  Every project above was built under pressure, most in under 48hr.  ║
-║  A working demo beats a perfect design doc every time.              ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  PRINCIPLE 02 — THE PROBLEM IS THE BOSS                             ║
-║  ─────────────────────────────────────────────────────────────────  ║
-║  AI is the tool. The deaf person, the flood victim, the PTSD        ║
-║  patient — those are the real clients. The right solution is the    ║
-║  one that helps them, not the one with the flashiest stack.         ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  PRINCIPLE 03 — INTEGRATION IS THE REAL BOTTLENECK                  ║
-║  ─────────────────────────────────────────────────────────────────  ║
-║  In hackathons, teams fall apart at the merge. I make sure I can    ║
-║  step into any role when needed. Full-stack or nothing.             ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a33,100:000000&height=2"/>
-
-<br/>
-
-## 🔭 &nbsp;`CURRENTLY`
-
-<br/>
-
-```python
-current_focus = {
-    "building"  : "Neuronest — pushing beyond MVP into real product",
-    "learning"  : "ML internals — not just API calls, actual math",
-    "exploring" : ["Multimodal AI", "Agentic Systems", "LLM Fine-tuning"],
-    "mentoring" : "Peers on pitching, product thinking, and hackathon strategy",
-    "open_to"   : ["Collaborations", "Hackathon Teams", "Hard Problems"],
-}
-```
-
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a33&height=2"/>
-
-<br/>
-
-<!-- CONTRIBUTION SNAKE (optional — requires GitHub Action setup) -->
-<!-- Uncomment after setting up the snake action workflow: -->
-<!-- <div align="center">
-<img src="https://raw.githubusercontent.com/ItzHimanshu007/ItzHimanshu007/output/github-contribution-grid-snake-dark.svg" />
-</div> -->
-
-<br/>
-
 <!-- FOOTER QUOTE -->
 <div align="center">
 
-```
+```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   "I don't just build projects — I build solutions that win."
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -347,6 +326,3 @@ current_focus = {
 <br/>
 
 </div>
-
-<!-- FOOTER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a33,50:0d0d1a,100:000000&height=120&section=footer&reversal=false"/>
