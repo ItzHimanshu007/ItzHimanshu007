@@ -19,21 +19,51 @@
 
 <br/>
 
-I'm **Himanshu Jasoriya** — an **AI/ML Engineer & Entrepreneur** pursuing B.Tech in Artificial Intelligence & Data Science `(2024–2028)` from Jaipur, India.
+## 🖥️ About Me
 
-I build at the intersection of **deep learning, product thinking, and real-world impact** — from computer vision pipelines and LLM-powered agents to full-stack GenAI products. I care about writing systems that are technically sound, commercially viable, and actually useful to people.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-**What I work with →** `Computer Vision` `Deep Learning` `Multimodal AI` `LLMs` `RAG` `AI Agents` `LoRA / QLoRA` `Full Stack` `Scalable Backend` `GenAI Products`
+### 👋 Hey, I'm Himanshu Jasoriya
 
-**How I think →** I pair AI engineering with **business model thinking** — understanding GTM strategy, startup ecosystems, and how to take a prototype from hackathon to product. Rapid prototyping and research-driven problem solving are defaults, not skills.
-
-**Beyond the screen →**
-I'm a **confident public speaker** — comfortable on stage whether it's a technical demo, an extempore round, or pitching to a room of judges. I've represented at national-level competitions and hackathons across India. I'm also into **dance and singing**, and I believe creativity in one domain sharpens thinking in another. I thrive under pressure, perform better in teams, and genuinely enjoy the chaos of building something real from zero.
-
-> *"Build AI that is technically robust, commercially viable & socially impactful."*
+🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
+🧠 AI/ML Engineer passionate about **Computer Vision, LLMs, RAG & Agentic AI**  
+🏆 **8× Hackathon Winner** across National, Open & Institute competitions  
 
 <br/>
 
+- 🚀 Building impactful AI systems with focus on:
+  `Multimodal AI` · `Generative AI` · `Full Stack AI Products`
+
+- ⚡ Skilled in:
+  `Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `LangChain` · `React` · `Docker`
+
+- 🧩 Exploring:
+  `AI Agents` · `LoRA/QLoRA` · `Scalable GenAI Systems`
+
+- 📈 Interested in:
+  `Startup Ecosystems` · `Product Strategy` · `Research-driven Problem Solving`
+
+- 🎤 Beyond tech:
+  `Public Speaking` · `Investor Pitching` · `Team Building`
+
+- 🌍 Vision:
+  Building AI products that are technically strong, commercially viable & socially impactful.
+
+<br/>
+
+📫 **hjasoriya007@gmail.com**
+
+</td>
+
+<td width="38%" align="center">
+
+<img src="https://i.pinimg.com/originals/1c/f4/ec/1cf4ecf956f42930dd1bf18faf882794.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 ## `⚡ HACKATHON RECORD`
 
 <div align="center">
