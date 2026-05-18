@@ -20,35 +20,28 @@
 <br/>
 
 ## 🖥️ About Me
-
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="55%" valign="middle">
 
 ### 👋 Hey, I'm Himanshu Jasoriya
-
 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
 🧠 AI/ML Engineer passionate about **Computer Vision, LLMs, RAG & Agentic AI**  
 🏆 **8× Hackathon Winner** across National, Open & Institute competitions  
 
 <br/>
 
-- 🚀 Building impactful AI systems with focus on:
+- 🚀 Building impactful AI systems with focus on:  
   `Multimodal AI` · `Generative AI` · `Full Stack AI Products`
-
-- ⚡ Skilled in:
+- ⚡ Skilled in:  
   `Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `LangChain` · `React` · `Docker`
-
-- 🧩 Exploring:
+- 🧩 Exploring:  
   `AI Agents` · `LoRA/QLoRA` · `Scalable GenAI Systems`
-
-- 📈 Interested in:
+- 📈 Interested in:  
   `Startup Ecosystems` · `Product Strategy` · `Research-driven Problem Solving`
-
-- 🎤 Beyond tech:
+- 🎤 Beyond tech:  
   `Public Speaking` · `Investor Pitching` · `Team Building`
-
-- 🌍 Vision:
+- 🌍 Vision:  
   Building AI products that are technically strong, commercially viable & socially impactful.
 
 <br/>
@@ -56,11 +49,8 @@
 📫 **hjasoriya007@gmail.com**
 
 </td>
-
-<td width="38%" align="center">
-
-<img src="https://i.pinimg.com/originals/1c/f4/ec/1cf4ecf956f42930dd1bf18faf882794.gif" width="100%" />
-
+<td width="45%" valign="middle" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx0bWNqcnBqbHRuYnEzNGN4ZGhieG1nYmkzYjAwdTFjajVjcmJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8rR0oqWiUYa4/giphy.gif" width="100%" height="100%" style="display:block; object-fit:cover; border-radius:12px;" alt="coding gif"/>
 </td>
 </tr>
 </table>
