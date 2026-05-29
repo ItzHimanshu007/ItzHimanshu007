@@ -187,7 +187,7 @@ Decentralised P2P renewable energy trading for rooftop solar owners. Concept →
 
 <div align="center">
 
-*Open to collabs · hackathon teams · hard problems · anything that matter*
+*Open to collabs · hackathon teams · hard problems · anything that matters*
 
 <br/>
 
