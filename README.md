@@ -66,7 +66,7 @@
 | 🥇 | **Geospatial Intelligence Hackathon 2026** | Open national hackathon | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
 | 🥇 | **HACKSTORM 2025** | National-level hackathon | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
 | 🥇 | **IdeaThon 2025** | ACEIT, Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
-| 🥈 | **HackStorm** | Arya College of Engineering & IT, Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
+| 🥈 | **CodeWars** | Arya College of Engineering & IT, Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
 | 🥈 | **DevSummit Hackathon** | Jagannath University | ![](https://img.shields.io/badge/UNIVERSITY-0e7490?style=flat-square) |
 | 🥈 | **Genisys 1.0** | MNIT Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
 | 🥉 | **HackJKLU 5.0** | JKLU, Jaipur | ![](https://img.shields.io/badge/OPEN-16a34a?style=flat-square) |
