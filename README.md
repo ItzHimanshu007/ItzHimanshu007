@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=700&color=00D4FF&center=true&vCenter=true&width=720&height=28&lines=Computer+Vision+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LoRA%2FQLoRA;Full+Stack+%C2%B7+Multimodal+AI+%C2%B7+Scalable+GenAI+Products;Startup+Builder+%C2%B7+Rapid+Prototyper+%C2%B7+Research-driven" alt="roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=700&color=00D4FF&center=true&vCenter=true&width=720&height=28&lines=Computer+Vision+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LoRA%2FQLoRA;Turning+research-grade+AI+into+real+products;Founder+%40+Neuronest+%C2%B7+AI+%2B+VR+for+mental+health;8%C3%97+Hackathon+Winner+%C2%B7+Top+10+of+28%2C000+at+India+Innovates" alt="roles"/>
 
 <br/>
 
@@ -19,113 +19,61 @@
 
 <br/>
 
-## 🖥️ About Me
+## `👋 ABOUT ME`
+
 <table>
 <tr>
 <td width="55%" valign="middle">
 
-### 👋 Hey, I'm Himanshu Jasoriya
-🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**  
-🧠 AI/ML Engineer passionate about **Computer Vision, LLMs, RAG & Agentic AI**  
-🏆 **8× Hackathon Winner** across National, Open & Institute competitions  
+### Hey, I'm Himanshu Jasoriya
+
+**AI/ML Engineer & Founder** who turns research-grade AI into products people actually use.
+
+🎓 **B.Tech** in Artificial Intelligence & Data Science  
+🧠 Focused on **Computer Vision, LLMs, RAG & Agentic AI**  
+🏆 **8× Hackathon Winner** · **Top 10 of 28,000** at India Innovates  
+🚀 Building **Neuronest**: AI + VR for mental-health therapy
 
 <br/>
 
-- 🚀 Building impactful AI systems with focus on:  
-  `Multimodal AI` · `Generative AI` · `Full Stack AI Products`
-- ⚡ Skilled in:  
-  `Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `LangChain` · `React` · `Docker`
-- 🧩 Exploring:  
-  `AI Agents` · `LoRA/QLoRA` · `Scalable GenAI Systems`
-- 📈 Interested in:  
-  `Startup Ecosystems` · `Product Strategy` · `Research-driven Problem Solving`
-- 🎤 Beyond tech:  
-  `Public Speaking` · `Investor Pitching` · `Team Building`
-- 🌍 Vision:  
-  Building AI products that are technically strong, commercially viable & socially impactful.
+- 🔭 **What I build:** `Multimodal AI` · `Generative AI` · `Full-stack AI products`
+- 🌱 **Going deeper on:** `AI Agents` · `LoRA/QLoRA fine-tuning` · `Scalable GenAI systems`
+- 📈 **Interested in:** `Startup ecosystems` · `Product strategy` · `Research-driven problem solving`
+- 🎤 **Beyond code:** `Public speaking` · `Investor pitching` · `Team building`
+- 🎯 **Mission:** AI products that are technically strong, commercially viable & socially impactful
 
 <br/>
 
-📫 **hjasoriya007@gmail.com**
+📫 **hjasoriya007@gmail.com** · always up for a good hackathon team or a hard problem
 
 </td>
 <td width="45%" valign="middle" align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx0bWNqcnBqbHRuYnEzNGN4ZGhieG1nYmkzYjAwdTFjajVjcmJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8rR0oqWiUYa4/giphy.gif" width="100%" height="100%" style="display:block; object-fit:cover; border-radius:12px;" alt="coding gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx0bWNqcnBqbHRuYnEzNGN4ZGhieG1nYmkzYjAwdTFjajVjcmJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8rR0oqWiUYa4/giphy.gif" width="100%" alt="coding gif"/>
 </td>
 </tr>
 </table>
+
+<br/>
+
 ## `⚡ HACKATHON RECORD`
 
 <div align="center">
 
+**8 podium finishes** &nbsp;·&nbsp; 🥇 × 3 &nbsp;·&nbsp; 🥈 × 3 &nbsp;·&nbsp; 🥉 × 2 &nbsp;·&nbsp; 🏁 Top 10 of 28,000
+
 | &nbsp; | Competition | Organizer | Tier |
 |:---:|:---|:---|:---:|
-| 🥇 | **Geospatial Intelligence Hackathon 2026** | Open | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
-| 🥇 | **HACKSTORM 2025** | National | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
-| 🥇 | **IdeaThon 2025** | ACEIT Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
+| 🥇 | **Geospatial Intelligence Hackathon 2026** | Open national hackathon | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
+| 🥇 | **HACKSTORM 2025** | National-level hackathon | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
+| 🥇 | **IdeaThon 2025** | ACEIT, Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
+| 🥈 | **HackStorm** | Arya College of Engineering & IT, Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
 | 🥈 | **DevSummit Hackathon** | Jagannath University | ![](https://img.shields.io/badge/UNIVERSITY-0e7490?style=flat-square) |
 | 🥈 | **Genisys 1.0** | MNIT Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
-| 🥉 | **HackJKLU 5.0** | JKLU | ![](https://img.shields.io/badge/OPEN-16a34a?style=flat-square) |
-| 🥉 | **AceHack Hackathon** | Open | ![](https://img.shields.io/badge/OPEN-16a34a?style=flat-square) |
-| 🏁 | **India Innovates** — Top 10 / 28,000 | Bharat Mandapam | ![](https://img.shields.io/badge/TOP%2010%20OF%2028K-dc2626?style=flat-square) |
+| 🥉 | **HackJKLU 5.0** | JKLU, Jaipur | ![](https://img.shields.io/badge/OPEN-16a34a?style=flat-square) |
+| 🥉 | **AceHack Hackathon** | Open hackathon | ![](https://img.shields.io/badge/OPEN-16a34a?style=flat-square) |
+| 🏁 | **India Innovates**: Top 10 of 28,000 | Bharat Mandapam, New Delhi | ![](https://img.shields.io/badge/TOP%2010%20OF%2028K-dc2626?style=flat-square) |
 
 </div>
-
-<br/>
-
-## `🚀 SELECTED WORK`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧠 Neuronest**&nbsp;&nbsp;![](https://img.shields.io/badge/ACTIVE%20STARTUP-00d4ff?style=flat-square)
-
-AI + VR mental health therapy with adaptive emotional feedback. The virtual environment responds in real-time to physiological signals — targeting India's therapist shortage crisis.
-
-`PyTorch` `Emotion AI` `VR` `Multimodal`
-
-</td>
-<td width="50%" valign="top">
-
-**🌊 Jal Drishti**&nbsp;&nbsp;![](https://img.shields.io/badge/🥇%20Geospatial%202026-f59e0b?style=flat-square)
-
-Ward-level urban flood risk prediction from geospatial topology + rainfall time-series. Turns reactive disaster response into proactive civic action.
-
-`Scikit-learn` `Geospatial AI` `Time Series`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤟 ISL Translator**&nbsp;&nbsp;![](https://img.shields.io/badge/ACCESSIBILITY-16a34a?style=flat-square)
-
-Real-time Indian Sign Language → text pipeline for India's ~5M deaf users. Custom gesture classifier on live video feed.
-
-`MediaPipe` `OpenCV` `YOLOv8` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-**⚡ SunGrid Protocol**&nbsp;&nbsp;![](https://img.shields.io/badge/BUILT%20IN%2033HRS-ea580c?style=flat-square)
-
-Decentralised P2P renewable energy trading for rooftop solar owners. Concept → working demo in a single overnight sprint.
-
-`Blockchain` `P2P` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="2">
-
-**🏥 MediNexus** — Full-stack healthcare SaaS replacing paper-based chaos in mid-tier Indian hospitals. Unified records, billing, appointments & cross-department workflows built for real deployment.
-
-`React` `Next.js` `Node.js` `PostgreSQL` `Docker`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -141,23 +89,35 @@ Decentralised P2P renewable energy trading for rooftop solar owners. Concept →
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**` AI · ML · Vision `**
+**` Machine Learning · Deep Learning `**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**` LLM · GenAI `**
+**` Computer Vision `**
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
+
+**` LLMs · GenAI · Agents `**
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT%20%C2%B7%20LoRA%2FQLoRA-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**` AI Apps · APIs `**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **` Full Stack `**
 
@@ -168,11 +128,12 @@ Decentralised P2P renewable energy trading for rooftop solar owners. Concept →
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**` Tools · Infra `**
+**` DevOps · Tools `**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
