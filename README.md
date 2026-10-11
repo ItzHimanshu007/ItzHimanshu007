@@ -10,8 +10,7 @@
 
 <a href="https://www.linkedin.com/in/himanshu-jasoriya-23b77331a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:hjasoriya007@gmail.com"><img src="https://img.shields.io/badge/Email-hjasoriya007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>&nbsp;
-<a href="https://github.com/ItzHimanshu007?tab=followers"><img src="https://img.shields.io/github/followers/ItzHimanshu007?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161b22&color=30363d" alt="GitHub followers"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ItzHimanshu007&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/ItzHimanshu007?tab=followers"><img src="https://img.shields.io/github/followers/ItzHimanshu007?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161b22&color=30363d" alt="GitHub followers"/></a>
 
 </div>
 
