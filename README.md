@@ -1,17 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050911,50:0a1628,100:00d4ff&height=220&section=header&text=Himanshu%20Jasoriya&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%208%C3%97%20Hackathon%20Winner&descSize=15&descColor=00d4ff&descAlignY=62&animation=twinkling&stroke=00d4ff&strokeWidth=0.4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050911,50:0a1628,100:00d4ff&height=240&section=header&text=Himanshu%20Jasoriya&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Founder%20%40%20Neuronest%20%C2%B7%208%C3%97%20Hackathon%20Winner&descSize=17&descColor=00d4ff&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=700&color=00D4FF&center=true&vCenter=true&width=720&height=28&lines=Computer+Vision+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LoRA%2FQLoRA;Turning+research-grade+AI+into+real+products;Founder+%40+Neuronest+%C2%B7+AI+%2B+VR+for+mental+health;8%C3%97+Hackathon+Winner+%C2%B7+Top+10+of+28%2C000+at+India+Innovates" alt="roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=40&lines=AI%2FML+Engineer+%C2%B7+Computer+Vision+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Agents;Turning+research-grade+AI+into+real+products;Founder+%40+Neuronest+%E2%80%94+AI+%2B+VR+for+mental+health;8%C3%97+Hackathon+Winner+%C2%B7+Top+10+of+28%2C000+at+India+Innovates" alt="AI/ML Engineer · Founder @ Neuronest · 8× Hackathon Winner"/>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-jasoriya-23b77331a)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hjasoriya007@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/@ItzHimanshu007-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/ItzHimanshu007)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=ItzHimanshu007&style=flat-square&color=00d4ff&label=visitors)
+<a href="https://www.linkedin.com/in/himanshu-jasoriya-23b77331a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:hjasoriya007@gmail.com"><img src="https://img.shields.io/badge/Email-hjasoriya007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>&nbsp;
+<a href="https://github.com/ItzHimanshu007?tab=followers"><img src="https://img.shields.io/github/followers/ItzHimanshu007?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=161b22&color=30363d" alt="GitHub followers"/></a>
 
 </div>
 
@@ -66,7 +65,7 @@
 | 🥇 | **Geospatial Intelligence Hackathon 2026** | Open national hackathon | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
 | 🥇 | **HACKSTORM 2025** | National-level hackathon | ![](https://img.shields.io/badge/NATIONAL-00d4ff?style=flat-square) |
 | 🥇 | **IdeaThon 2025** | ACEIT, Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
-| 🥈 | **HackStorm** | Arya College of Engineering & IT, Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
+| 🥈 | **CodeWars** | Arya College of Engineering & IT, Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
 | 🥈 | **DevSummit Hackathon** | Jagannath University | ![](https://img.shields.io/badge/UNIVERSITY-0e7490?style=flat-square) |
 | 🥈 | **Genisys 1.0** | MNIT Jaipur | ![](https://img.shields.io/badge/INSTITUTE-7c3aed?style=flat-square) |
 | 🥉 | **HackJKLU 5.0** | JKLU, Jaipur | ![](https://img.shields.io/badge/OPEN-16a34a?style=flat-square) |
